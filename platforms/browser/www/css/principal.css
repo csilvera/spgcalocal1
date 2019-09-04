@@ -22,7 +22,7 @@
     background-color: #FFF;
 }
 .ColorDominante{
-    background-color: #F4511E;
+    background-color: #0A1DC6;
 }
 .col-primary{
     color: #333;
@@ -34,7 +34,7 @@
     color: #fff;
 }
 .col-min{
-   color:#F4511E;
+   color:#0A1DC6;
 }
 .Jum-primary{
     font-size: 22px;
@@ -64,23 +64,23 @@
 /*listas y formularios*/
 
 li.btn-inmenu:active{
-    background-color: rgba(244, 81, 30, 0.2);
+    background-color: rgba(10, 29, 198, 0.2);
     color: white;
     font-weight: bold;
 }
 li.btn-inmenun:active{
-    background-color: rgba(244, 81, 30, 0.2);
+    background-color: rgba(10, 29, 198, 0.2);
     color: #333;
     font-weight: bold;
 }
 li.btn-inmenur:active{
-    background-color: rgba(244, 81, 30, 0.2);
+    background-color: rgba(10, 29, 198, 0.2);
     color: #F4511E;
     font-weight: bold;
 }
 
 #Search{
-    background-color: #F4511E;
+    background-color: #0A1DC6;
 }
 
 /* bordes */

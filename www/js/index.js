@@ -198,7 +198,8 @@ function inicio(){
         $('#opc-1').load('menu-sin-acceso/menu.html');
         $('#Publica').empty();
         $('#Publica').append(``);
-    }else{
+    }
+    else{
     $('#THeader').css('display','block');
     $('#text-1').css('padding-top','5px');
     $('#text-1').text('Iniciar sesión');
@@ -223,7 +224,7 @@ function inicio(){
 $('.Despl-menu').on('click','#Retornar', function(){
     menu = 1;
     $('.Despl-menu').animate({left:'-80%'},'show');
-    localStorage.setItem("sesion", 'inicio');
+    localStorage.setItem("sesion", 'yes');
     welcome();
 });
 $('.Despl-menu').on('click','#InicioDSesion', function(){
@@ -1078,7 +1079,8 @@ function Cliente(){
         $('#opc-1').load('menu-sin-acceso/menu.html');
         $('#Publica').empty();
         $('#Publica').append(``);
-    }else{
+    }
+    else{
         inicio();
     }
     

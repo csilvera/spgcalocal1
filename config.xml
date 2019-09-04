@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="tienda.simple.muestra" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>dsimple - tema</name>
+    <name>Smart People Group</name>
     <description>
-       Automatización de negocios
+       Smart People Group C.A. 
     </description>
     <author email="desarrollosimple@gmail.com" href="https://didigitales.live/">
         Dsimple Team
@@ -12,7 +12,7 @@
     <preference name="KeepRunning" value="true"/>
     <preference name="BackgroundColor" value="#FCFCFC"/>
     <preference name="SplashScreenBackgroundColor" value="#FCFCFC"/>
-    <preference name="StatusBarBackgroundColor" value="#F4511E" />
+    <preference name="StatusBarBackgroundColor" value="#0A1DC6" />
     <preference name="HideKeyboardFormAccessoryBar" value="true"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="21" />
